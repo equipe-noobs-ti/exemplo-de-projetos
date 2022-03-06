@@ -1,0 +1,21 @@
+
+<dados>
+    <linha> 
+        <nome>Divino</nome>
+        <idade>23</idade>
+    </linha>
+    <linha> 
+        <nome>Uniliva</nome>
+        <idade>26</idade>
+    </linha>
+    <linha> 
+        <nome>Zumair</nome>
+        <idade>27</idade>
+    </linha>
+    <linha> 
+        <nome>Bones</nome>
+        <idade>30</idade>
+    </linha>
+</dados>
+
+
